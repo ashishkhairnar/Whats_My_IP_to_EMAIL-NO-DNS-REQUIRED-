@@ -1,4 +1,4 @@
-Send your current home IP to your EMAIL (**NO Dynamic DNS or Business ISP Plan need**)
+Send your current home IP to your EMAIL (**NO Dynamic DNS or Business ISP Plan needed**)
 
 Simply spin your Raspberry-Pi for this.
 
