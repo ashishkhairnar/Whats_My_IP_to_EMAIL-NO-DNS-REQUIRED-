@@ -16,7 +16,7 @@ msg = MIMEMultipart()
 msg['From'] = fromaddr
 msg['To'] = toaddr
 
-#Make a text file in the same directory for storing current value and avoid repititive emails.
+#Make text file in the same directory for storing current value and avoid repititive emails.
 
 PATH_INPUT = "/<Whatever directory>/current_ip.txt"
 
